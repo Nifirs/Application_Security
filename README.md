@@ -5,6 +5,13 @@ Software Application Development with Security
 
 This Sample Client Web Application is working with the **OAuth 2.0 Framework**
   ###### Link to Google Developers Console: [GoogleDevelopers](https://console.developers.google.com/)
+  
+  ## Do the necessary changes in the Developers site to 
+  ```
+  Obtain the Client ID
+  And the Secret Key
+  
+  ```
 
   ## Technologies used
   
@@ -46,8 +53,8 @@ Follow the below steps to setup the Project in your Machine
 Sign In to Google Drive to Upload Files
 
 ```
-Select your Google Account to Login
-Browse the File that you need to upload to the Drive
+- Select your Google Account to Login
+- Browse the File that you need to upload to the Drive
 
 ## Click on the Button:
 ```
