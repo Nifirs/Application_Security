@@ -32,7 +32,32 @@ Follow the below steps to setup the Project in your Machine
 ```
   code .
 ```
-- It will open the project folder in the VS Code Editor
+- It will open up the project folder in the VS Code Editor
+- If you need to do any changes you can go ahead and do it
+- Start the WAMP server
+- Go to the following URL:
+```
+  http://localhost/SSD-Assignment_2/
+```
+## Now you all set for the project execution
+
+## Click on the Button:
+```
+Sign In to Google Drive to Upload Files
+
+```
+Select your Google Account to Login
+Browse the File that you need to upload to the Drive
+
+## Click on the Button:
+```
+Upload
+```
+
+## Now check the Drive for the newly added file
+
+# Done!
+
 
 
 
