@@ -3,7 +3,7 @@ Software Application Development with Security
 
 ## Project Name: Upload Files into Google Drive through a Client Application 
 
-This Sample Client Web Application is working with the OAuth 2.0 Framework
+This Sample Client Web Application is working with the * OAuth 2.0 Framework *
   ###### Link to Google Developers Console: [GoogleDevelopers](https://console.developers.google.com/)
 
   ## Technologies used
@@ -23,7 +23,8 @@ Follow the below steps to setup the Project in your Machine
 - Clone the project folder
 - Unzip it to the Location
 ```
-  wamp - > www
+ C:\ -> wamp - > www
+ C:\wamp\www
 
 ```
 - Open Command Prompt and go to the project folder location
