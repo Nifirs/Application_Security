@@ -6,10 +6,10 @@ Software Application Development with Security
 This Sample Client Web Application is working with the **OAuth 2.0 Framework**
   ###### Link to Google Developers Console: [GoogleDevelopers](https://console.developers.google.com/)
   
-  ## Do the necessary changes in the Developers site to 
+  ## Do the necessary changes in the Developers site and link the google account with the client application to 
   ```
-  Obtain the Client ID
-  And the Secret Key
+  1. Obtain the Client ID
+  2. And the Secret Key
   
   ```
 
