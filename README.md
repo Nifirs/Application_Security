@@ -6,12 +6,13 @@ Software Application Development with Security
 This Sample Client Web Application is working with the OAuth 2.0 Framework:
   ###### Link to Google Developers Console: [GoogleDevelopers](https://console.developers.google.com/)
 
-  ## Technologies used:
+  ## Technologies used
        1. HTML
        2. CSS
        3. JavaScript
-  ## IDE:
-      -Visual Studio Code
+  ## IDE
+      - Visual Studio Code
+      - nnn
       
 
 Follow the below steps to setup the Project in your Machine
