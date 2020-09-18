@@ -28,9 +28,11 @@ Follow the below steps to setup the Project in your Machine
 ```
 - Open Command Prompt and go to the project folder location
 - Then type
-```code .
 ```
-- 
+  code .
+```
+- It will open the project folder in the VS Code Editor
+
 
 
 
