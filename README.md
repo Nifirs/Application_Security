@@ -7,9 +7,9 @@ This Sample Client Web Application is working with the OAuth 2.0 Framework:
   Link: https://console.developers.google.com/
 
   Technologies used:
-      HTML
-      CSS
-      JavaScript
+      ##HTML
+      ##CSS
+      ##JavaScript
   IDE:
       Visual Code
       
