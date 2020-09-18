@@ -11,12 +11,12 @@ This Sample Client Web Application is working with the OAuth 2.0 Framework:
        2. CSS
        3. JavaScript
   ## IDE
-        Visual Studio Code
+       Visual Studio Code
 
 
 Follow the below steps to setup the Project in your Machine
   
-
+- ss
 
 
 
